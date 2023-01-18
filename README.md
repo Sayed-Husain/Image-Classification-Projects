@@ -27,8 +27,6 @@ That were trained on the same dataset.
 
 ## Dog Vision
 
-My First TensorFlow Project that I made from scratch (no prefills, no copy pasting).
-
 In this notebook, I made a computer vision neural networks to build an image classification model capable of predicting over 100 different dog breeds.
 
  
@@ -37,11 +35,26 @@ In this notebook, I made a computer vision neural networks to build an image cla
 **Model Score:**
 * **Multi Class Log Loss** on Kaggle's test dataset of **4.78**.
 
-* **Accuracy** on the entire dataset of **99.86**. 
- 
-    **Disclaimer:** the accuracy is scored on the same dataset that the model traiend on.
 
 
 
 [**Notebook Link**](https://github.com/Sayed-Husain/Image-Classification-Projects/blob/main/Dog%20Vision/DogVision.ipynb)
 
+
+## Fresh Rotten Fruits
+
+In this notebook, I bulit a deep learning computer vision model to classifiy fruits images into 6 categories:
+
+1. Fresh Apples
+2. Fresh Bananas
+3. Fresh Oranges
+4. Rotten Apples
+5. Rotten Bananas
+6. Rotten Oranges
+
+**Model Score:**
+
+* **validation_accuracy** on previously unseen data of **98.45%**.
+
+
+[**Notebook Link**](https://github.com/Sayed-Husain/Image-Classification-Projects/blob/main/Fresh%20Rotten%20Fruits/fruits.ipynb)
